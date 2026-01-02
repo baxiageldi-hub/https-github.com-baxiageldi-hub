@@ -1,0 +1,5 @@
+{
+  "name": "Mood2Music Prompt Generator",
+  "description": "Seçtiğiniz ruh haline göre profesyonel yapay zeka müzik promptları üreten gelişmiş bir araç. Suno, Udio ve Stable Audio gibi platformlar için optimize edilmiştir.",
+  "requestFramePermissions": []
+}
